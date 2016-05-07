@@ -1,0 +1,13 @@
+2016-05-07 11:43:31,384: INFO : number of data 163 :
+2016-05-07 11:43:31,385: DEBUG : Building prefix dict from the default dictionary ...:
+2016-05-07 11:43:31,386: DEBUG : Loading model from cache /tmp/jieba.cache:
+2016-05-07 11:43:31,686: DEBUG : Loading model cost 0.302 seconds.:
+2016-05-07 11:43:31,687: DEBUG : Prefix dict has been built succesfully.:
+2016-05-07 11:43:32,381: INFO : km cluster arguments KMeans(copy_x=True, init='k-means++', max_iter=500, n_clusters=38, n_init=10,
+    n_jobs=-1, precompute_distances=True, random_state=None, tol=0.0001,
+    verbose=0) :
+2016-05-07 11:43:32,382: INFO : cluster result labels:
+2016-05-07 11:43:32,382: INFO : [21 21  9  9 25  9 21 21 13 21 13 13  0 24 21 18 10  9 34 34  9 24 25 25 34
+ 34 24 24 34 34 34 11 11 34  3 12 12  3  2  3  2  3 28 28 28 15 28 28  3  2
+ 20 28 14 12 20 18 37  1  6  7  6 24 16 22 22  5  5  5 33 29  6 33 17 17 20
+  5 33 10 18  0  4 18 24 28 35 19  2 14 14 20 37 12 29 26 23  4 10 35 31 29]:
